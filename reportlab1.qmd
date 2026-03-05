@@ -2,7 +2,7 @@
 ---
 title: "ОТЧЁТ ПО ЛАБОРАТОРНОЙ РАБОТЕ"
 subtitle: "Установка Linux в VirtualBox"
-author: ""
+author: "" Колесник Константин Андреевич
 date: ""
 format:
   pdf:
