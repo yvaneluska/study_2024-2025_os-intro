@@ -1,8 +1,8 @@
 
 ---
 title: "Установка Linux в VirtualBox"
-author: ""
-date: ""
+author: "Колесник Константин Андреевич"
+date: "01.03.2026"
 format:
   revealjs:
     theme: default
