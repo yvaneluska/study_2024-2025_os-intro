@@ -1,0 +1,26 @@
+---
+format: revealjs
+title: Продвинутое использование Git
+---
+
+# Продвинутое использование Git
+
+## Gitflow
+
+-   master
+-   develop
+-   feature
+-   release
+-   hotfix
+
+## SemVer
+
+MAJOR.MINOR.PATCH
+
+## Conventional Commits
+
+feat: fix: chore:
+
+## Итог
+
+Автоматизация релизного процесса.
